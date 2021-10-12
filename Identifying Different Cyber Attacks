@@ -1,1 +1,14 @@
+In this module, I completed the following exercises:
 
+Exercise 1 - Malware
+Exercise 2 - Creating Standalone Payloads with Msfvenom
+Exercise 3 - Performing Online Password Attacks
+Exercise 4 - Performing Offline Password Attacks
+Exercise 5 - Explaining Physical and Other Attacks
+
+Task 1 - Create a Fork Bomb as a Simple Virus
+  A fork bomb is a form of virus. When executed, it goes in an infinite loop, so does not stop. 
+  Eventually, the system hangs and crashes because of the shortage of system resources. 
+  You can design the virus to reach many different objectives.
+  
+  
